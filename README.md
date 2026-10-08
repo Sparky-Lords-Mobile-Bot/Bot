@@ -5,8 +5,12 @@ To add it to your server, you can use [this link](https://discord.com/api/oauth2
 
 Now available on its own [website](https://www.sparky-bot.com/en/) !
 
+*This Github repo is not maintained, the up-to-date repo is available on [GitLab](https://gitlab.com/sparky-lm)*
+
 ### Sparky Bot, un outil Discord pour Lords Mobile
 Sparky est un bot Lords Mobile Discord vous proposant divers outils d'aide. Vous voulez savoir la meilleure compo de chasse pour le Gargantua, être notifié quand un évènement infernal particulier commence ou savoir combien cela va vous coûter de former 456 894 t4? Vous êtes au bon endroit !
 Pour l'ajouter à votre serveur, vous pouvez utiliser [ce lien](https://discord.com/api/oauth2/authorize?client_id=632956109136855060&permissions=268748816&scope=bot%20applications.commands) !
 
 Aussi disponible sur son [site dédié](https://www.sparky-bot.com/fr/) !
+
+*Ce dépôt n'est plus maintenu, la version à jour du code est disponible sur [GitLab](https://gitlab.com/sparky-lm)*
